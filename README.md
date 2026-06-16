@@ -31,4 +31,8 @@ I am a cybersecurity student focused on GRC, SOC operations, cloud security, thr
 - AWS CloudWatch
 
 ## Repository Structure
-Updated README with cybersecurity portfolio information
+```text
+notes/
+labs/
+scripts/
+screenshots
