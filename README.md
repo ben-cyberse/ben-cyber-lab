@@ -1,4 +1,4 @@
-# Ben-Cybersecurity Lab
+# Cybersecurity portfolio
 
 Welcome to my cybersecurity portfolio showcasing hands-on labs, security projects, and practical learning in SOC operations, threat detection, and cloud security.
 
