@@ -32,8 +32,9 @@ My focus is on strengthening real-world defensive security capabilities through 
 
 ## Repository Structure
 
-notes/          Documentation & theory
-labs/           Hands-on security labs
-scripts/        Automation tools & scripts
-screenshots/    Evidence of lab work
-certifications/ Completed courses & certificates
+uber-ai-solutions/
+ ├── python/
+ ├── sql/
+ ├── scripts/
+ ├── projects/
+ ├── notes/
