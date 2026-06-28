@@ -1,4 +1,4 @@
-# Ben Cybersecurity Lab
+# Ben-Cybersecurity Lab
 
 Welcome to my cybersecurity portfolio showcasing hands-on labs, security projects, and practical learning in SOC operations, threat detection, and cloud security.
 
@@ -32,9 +32,8 @@ My focus is on strengthening real-world defensive security capabilities through 
 
 ## Repository Structure
 
-```text
-notes/
-labs/
-scripts/
-screenshots/
-certifications/
+notes/          Documentation & theory
+labs/           Hands-on security labs
+scripts/        Automation tools & scripts
+screenshots/    Evidence of lab work
+certifications/ Completed courses & certificates
